@@ -81,14 +81,21 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Satyam0775&theme=monokai-metallian&hide_border=true" alt="Satyam's streak"/>
     </td>
-    <td align="center" width="50%">
+    <td align="center">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Satyam0775&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Satyam's Github Stats"/>
     </td>
   </tr>
 </table>
+
+📊 **GitHub Highlights**  
+- ⭐ Total Stars Earned: 3  
+- 🔥 Total Commits: 157  
+- ✅ Total PRs: 4  
+- 🐞 Total Issues: 1  
+- 📌 Contributed to (last year): **4**  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Satyam0775&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Satyam's Activity Graph"/>
@@ -96,4 +103,13 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Satyam0775&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="Satyam's Trophies"/>
+</p>
+
+---
+
+## 🌐 Connect with me  
+<p align="left">
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyamkr07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://medium.com/@YOUR_MEDIUM" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
