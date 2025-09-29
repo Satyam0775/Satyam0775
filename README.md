@@ -81,25 +81,30 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Satyam0775&theme=monokai-metallian&hide_border=true" alt="Satyam's streak"/>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Satyam0775&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Satyam's Github Stats"/>
+      
+      <br/><br/>
+      <b>📊 GitHub Highlights</b><br/>
+      ⭐ Total Stars Earned: 3 <br/>
+      🔥 Total Commits: 353 <br/>
+      ✅ Total PRs: 2 <br/>
+      🐞 Total Issues: 0 <br/>
+      📌 Contributed to (last year): 0  
     </td>
   </tr>
 </table>
 
-📊 **GitHub Highlights**  
-- ⭐ Total Stars Earned: 3  
-- 🔥 Total Commits: 157  
-- ✅ Total PRs: 4  
-- 🐞 Total Issues: 1  
-- 📌 Contributed to (last year): **4**  
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Satyam0775&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Satyam's Activity Graph"/>
 </p>  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam0775&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="Satyam's Trophies"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Satyam0775&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="Satyam's Trophies"/>
