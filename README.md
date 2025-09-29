@@ -16,7 +16,7 @@
 
 ## 👋 About Me  
 
-💡 AI/ML Engineer with expertise in **LLMs, RAG systems, Computer Vision, and Climate Data Analysis**.  
+💡 AI/ML Engineer with expertise in **LLMs, RAG systems, NLP, and Climate Data Analysis**.  
 🔬 Skilled in **end-to-end ML workflows**, **MLOps pipelines**, scalable deployment, and **explainable AI**.  
 ⚡ Passionate about building **responsible, transparent, and production-ready AI solutions**.  
 
@@ -28,51 +28,74 @@
 |---|---|---|
 | **AI-Agent-Pipeline** | Agentic RAG pipeline with Weather API, OpenAI, LangSmith evaluation. | LangChain, LangGraph, LangSmith, Qdrant |
 | **RAG Chatbot** | PDF Q&A chatbot using embeddings + semantic search. | Pinecone, Cohere, LangChain |
-| **Computer Vision Challenge** | Circle detection, ORB feature matching, homography. | OpenCV, Python |
-| **Multi-Agent Workflow** | Streamlit-based workflow using multiple AI agents for CSV + research. | Streamlit, LangChain, Agents |
+| **Miimansa-NLP-Project** | Medical NER + Entity Linking on CADEC dataset (Drugs, Diseases, Symptoms, ADRs). Linked ADRs to SNOMED-CT using fuzzy matching + embeddings. | HuggingFace Transformers, SciSpacy, Sentence-Transformers, FuzzyWuzzy |
+| **Fine-tuning TTS (XTTSv2)** | Fine-tuned XTTSv2 for English with Technical Vocabulary; optimized GPT & DVAE finetuning. | PyTorch, HuggingFace, XTTSv2, Kaggle |
 | **Climate Assessment** | Long-term rainfall/temperature trend analysis, ML bias correction. | Python, Xarray, ArcGIS, QGIS |
 
-*(and 30+ more projects on GitHub — covering **LLMs, RAG, CV, Agents** 🎯)*  
+*(and 30+ more projects on GitHub — covering **LLMs, RAG, NLP, CV, Agents** 🎯)*  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **Programming & Core Libraries**
+### **Languages & Core Skills**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=opsgenie&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-005CED?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-800080?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
+</p>
+
+### **Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-FFB703?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-0A9396?style=for-the-badge&logo=airtable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FEBA33?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Torchvision-009688?style=for-the-badge&logo=pytorch-lightning&logoColor=white"/>
+</p>
+
+### **Libraries**
+<p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pillow-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xarray-FF6F00?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
 
-### **Frameworks & Specializations**
+### **Models**
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLOv5/v8-00A86B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN-FF007F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RCNN-FFA500?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLIP-0000FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vision--Language%20Models-9932CC?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### **Tools & Platforms**
+### **Optimization/Deployment**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-239120?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenVINO-27338E?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArcGIS-2E7D32?style=for-the-badge&logo=esri&logoColor=white"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-FF5733?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 ---
