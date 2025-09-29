@@ -86,14 +86,6 @@
     </td>
     <td align="center" width="50%">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Satyam0775&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Satyam's Github Stats"/>
-      
-      <br/><br/>
-      <b>📊 GitHub Highlights</b><br/>
-      ⭐ Total Stars Earned: 3 <br/>
-      🔥 Total Commits: 353 <br/>
-      ✅ Total PRs: 2 <br/>
-      🐞 Total Issues: 0 <br/>
-      📌 Contributed to (last year): 0  
     </td>
   </tr>
 </table>
@@ -104,17 +96,4 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Satyam0775&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="Satyam's Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam0775&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="Satyam's Trophies"/>
-</p>
-
----
-
-## 🌐 Connect with me  
-<p align="left">
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyamkr07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@YOUR_MEDIUM" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
