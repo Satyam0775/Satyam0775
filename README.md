@@ -28,7 +28,6 @@ Passionate about building **responsible, transparent, and production-ready AI so
 |---|---|---|
 | **AI-Agent-Pipeline** | Agentic RAG pipeline with Weather API, OpenAI, LangSmith evaluation. | LangChain, LangGraph, LangSmith, Qdrant |
 | **RAG-Based Semantic Quote Retrieval** | RAG pipeline for semantic quote retrieval using *Abirate/english_quotes* dataset. Built FAISS-based semantic search with MiniLM embeddings and deployed Streamlit app for interactive query search. | HuggingFace, Sentence-Transformers, FAISS, Streamlit, Python |
-| **Miimansa-NLP-Project** | Medical NER + Entity Linking on CADEC dataset (Drugs, Diseases, Symptoms, ADRs). Linked ADRs to SNOMED-CT. | HuggingFace, SciSpacy, Transformers |
 | **Fine-tuning TTS (XTTSv2)** | Fine-tuned XTTSv2 for English Technical Vocabulary; optimized GPT & DVAE finetuning. | PyTorch, HuggingFace, XTTSv2, Kaggle |
 | **Climate Assessment** | Long-term rainfall/temperature trend analysis, ML bias correction. | Python, Xarray, ArcGIS, QGIS |
 
